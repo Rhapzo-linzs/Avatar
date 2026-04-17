@@ -24,6 +24,9 @@ Tugas ini berfokus pada pengolahan dataset mahasiswa serta pemahaman operasi pad
 👉 [**JALANKAN KODE PERTEMUAN 5**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Pertemuan%205.ipynb)
 
 ---
+### [Pertemuan 7] - Perhitungan pangkat
+Tugas Mahasiswa nim ganjil.
 
+👉 [**JALANKAN KODE PERTEMUAN 7**](https://colab.research.google.com/github/Rhapzo-linzs/Avatar/blob/main/Untitled2.ipynb)
 
 *Dibuat dengan sepenuh hati oleh Reyhan untuk tugas mata kuliah Algoritma :).*
